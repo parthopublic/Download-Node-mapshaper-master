@@ -1,0 +1,10 @@
+.DS_Store
+__*
+node_modules
+npm-debug.log
+.npmignore
+.jshintrc
+pre-publish
+pre-release.js
+release*
+nacis
